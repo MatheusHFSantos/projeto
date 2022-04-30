@@ -1,0 +1,61 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+a {
+  color: var(--vermelho--dark);
+}
+a:hover {
+  color: var(--vermelho);
+}
+
+.title {
+  text-transform: uppercase;
+}
+.subtitle {
+  color: var();
+  font-weight: 500;
+}
+
+.block {
+  margin-bottom: 120px;
+}
+
+.button {
+  text-transform: lowercase;
+  font-weight: 500;
+  padding-left: 1.4rem;
+  padding-right: 1.4rem;
+}
+.button-primary:hover {
+  background-color: var(--vermelho);
+  border-color: var(--vermelho);
+}
+
+.button-primary {
+  background-color: var(--vermelho);
+  border-color: var(--vermelho);
+}
+.button-primary:hover {
+  background-color: var(--vermelho--dark);
+  border-color: var(--vermelho);
+}
+/*
+.button-outline-primary:hover {
+  border-color: var(--vermelho);
+}
+*/
+
+.btn-outline-primary {
+  border-color: var(--vermelho);
+  color: red;
+}
+.btn-outline-primary:hover {
+  background-color: var(--vermelho--dark);
+  border-color: var(--vermelho--dark);
+}

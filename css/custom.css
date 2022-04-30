@@ -1,0 +1,166 @@
+body,
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  width: 100%;
+  background-color: transparent;
+  transition: background ease-out 0.2s;
+}
+
+#header.active {
+  position: fixed;
+  background: #fff;
+  box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+
+header .navbar-collapse {
+  width: auto;
+}
+
+header .nav-link {
+  text-transform: uppercase;
+  font-weight: 500;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-right: 30px;
+  color: var(--preto);
+  border-bottom: solid 4px transparent;
+}
+
+header .nav-link:hover {
+  border-bottom: solid 4px var(--vermelho);
+  color: var(--vermelho);
+}
+/*section #slider {
+  background-image: url(../assets/hand-painted-watercolor-background-with-sky-clouds-shape.jpg)
+    no-repeat center bottom;
+  background-size: contain;
+}*/
+
+#slider,
+h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+#slider,
+h4 {
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+#servico a.destaque {
+  display: block;
+  background: rgb(255, 96, 96);
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  transition: all ease-out 0.2s;
+}
+
+#servico a.destaque:hover {
+  background: var(--vermelho);
+  color: white;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);
+  transform: scale(1.05);
+}
+#servico img {
+  border-radius: 5%;
+}
+
+#servico a.destaque .img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
+
+#servico a.destaque .img-container img {
+  max-height: 280px;
+}
+#servico h5 {
+  text-transform: uppercase;
+}
+
+#cliente a.link-cliente {
+  padding: 0 15px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px var(--vermelho);
+  height: 100px;
+  transition: ease-out all 0.2s;
+}
+
+#cliente a.link-cliente:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+#cliente a.link-cliente img {
+  filter: grayscale(100%);
+  max-height: 70px;
+  width: 100px;
+  opacity: 0.6;
+}
+
+#cliente a.link-cliente:hover img {
+  filter: none;
+  opacity: 1;
+}
+
+.parallax {
+  background-image: url('https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max');
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  background-image: url(' http://static.tumblr.com/0ckotd7/Ezglkwpjs/m8tmydkw.bmp');
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-txt {
+  background: url('https://coresaberesabores.files.wordpress.com/2018/04/corac3a7c3a3o-desenho.jpg?w=493&h=493&crop=1')
+    no-repeat center;
+  background-size: 60%;
+  text-align: center;
+
+  transition: 350ms all ease-in-out;
+  -webkit-background-clip: text;
+  color: transparent;
+  padding: 50px;
+}
+#img-txt:hover {
+  color: red;
+}
+
+#depoimentos .depoimento {
+  color: white;
+  font-weight: 500;
+  background-color: rgb(252, 56, 56);
+  border-radius: 5px;
+  display: flex;
+  padding: 25px;
+}
+
+#depoimentos .depoimento .name {
+  color: white;
+  font-weight: 700;
+}

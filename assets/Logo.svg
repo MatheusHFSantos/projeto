@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="420mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 42000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:none}
+    .fil2 {fill:#E6E6E6}
+    .fil0 {fill:#E6E6E6}
+    .fil3 {fill:#FF1F1F}
+    .fil4 {fill:#FF6161}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M23272.72 14728.65l1474.86 0 0 1293.54 -1474.86 0 0 -1293.54z"/>
+    </clipPath>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0" transform="matrix(0.999095 0.0425334 -0.0425334 0.999095 24010.2 15368.1)" rx="1371.6" ry="838.2"/>
+  <ellipse class="fil1" transform="matrix(0.866492 0.0182159 -0.0182159 0.866492 23976.2 15368.1)" rx="1371.6" ry="838.2"/>
+  <ellipse class="fil0" transform="matrix(0.689975 0.0677402 -0.0677402 0.689975 23976.2 15368.1)" rx="1371.6" ry="838.2"/>
+  <ellipse class="fil1" transform="matrix(0.580293 0.0569719 -0.0569719 0.580293 23976.2 15368.1)" rx="1371.6" ry="838.2"/>
+  <ellipse class="fil2" transform="matrix(0.460635 0.0452241 -0.0452241 0.460635 23976.2 15368.1)" rx="1371.6" ry="838.2"/>
+  <g id="_1010109392">
+   <g style="clip-path:url(#id0)">
+    <image x="23272.72" y="14728.65" width="1474.86" height="1293.54" xlink:href="Logo_Images\Logo_ImgID1.png"/>
+   </g>
+  </g>
+  <path class="fil3" d="M23941.92 15865.64c25.4,-16.93 279.39,-279.4 397.93,-355.6 118.54,-76.2 448.74,-397.92 -16.93,-618.06 0,0 -211.67,-110.07 -389.47,169.33 0,0 -228.6,-262.47 -457.2,-33.87 -228.6,228.6 59.27,440.27 59.27,440.27l406.4 397.93z"/>
+  <path class="fil4" d="M24281.25 14944.81c128.69,0 233.02,104.33 233.02,233.02 0,118.21 -88.02,215.84 -202.09,230.97 75.27,-38.63 126.77,-117.02 126.77,-207.43 0,-128.69 -104.33,-233.02 -233.02,-233.02 -10.49,0 -20.81,0.71 -30.93,2.05 31.86,-16.35 67.98,-25.59 106.25,-25.59z"/>
+  <rect class="fil5" x="22534.59" y="14507.98" width="2897.19" height="1746.25"/>
+ </g>
+</svg>
